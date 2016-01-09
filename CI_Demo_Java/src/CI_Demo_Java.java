@@ -6,7 +6,7 @@ public class CI_Demo_Java {
         System.out.println("This is Continuous Integration Test Java Code");
         System.out.println("");
         System.out.println("");
-        System.out.println("Release Charlie");
+        System.out.println("Release Delta");
         System.out.println("");
         System.out.println("");
  }
