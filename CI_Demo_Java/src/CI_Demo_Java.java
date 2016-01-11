@@ -8,7 +8,7 @@ public class CI_Demo_Java {
         System.out.println("for RSML");
         System.out.println("");
         System.out.println("");
-        System.out.println("Release TWO");
+        System.out.println("Release Arsenal");
         System.out.println("");
         System.out.println("");
  }
