@@ -3,6 +3,6 @@ public class CI_Demo_Java {
         // Prints "Hello, World" to the terminal window.
         System.out.println("This is Continuous Integration");
         System.out.println("Leading on to Unit Testing");
-        System.out.println("Jenkins Trigger Test 1");        
+        System.out.println("Jenkins Trigger Test 2");        
  }
 }
